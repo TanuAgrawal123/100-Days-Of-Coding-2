@@ -48,8 +48,7 @@
  
 ### Day 3: Jan 24 2024 
 
-**Today's Focus**:Revised Tree in DSA and instagram System design
-
+**Today's Focus**:Revised Greedy  in DSA 
 **Details**:
 
  - N meeting in room
